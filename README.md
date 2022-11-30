@@ -1,4 +1,8 @@
+<head>
+  <meta name="google-site-verification" content="Bd_pn0TK41pGsQLVOD4LQlgkrnt_oCQ9Yx9Gj_At_bQ" />
+  <meta name="robots" content="INDEX,FOLLOW">
 
+  </head>
 <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
