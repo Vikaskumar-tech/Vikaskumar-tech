@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
   <meta name="google-site-verification" content="Bd_pn0TK41pGsQLVOD4LQlgkrnt_oCQ9Yx9Gj_At_bQ" />
   <meta name="robots" content="INDEX,FOLLOW">
@@ -63,3 +65,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikaskumar-tech&show_icons=true&locale=en" alt="vikaskumar-tech" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikaskumar-tech&" alt="vikaskumar-tech" /></p>
+  
+  
+  </html>
