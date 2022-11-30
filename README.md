@@ -5,6 +5,7 @@
   <meta name="robots" content="INDEX,FOLLOW">
 
   </head>
+  <body>
 <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
@@ -66,5 +67,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikaskumar-tech&" alt="vikaskumar-tech" /></p>
   
-  
+  </body>
   </html>
