@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="google-site-verification" content="Bd_pn0TK41pGsQLVOD4LQlgkrnt_oCQ9Yx9Gj_At_bQ" >
+  <meta name="google-site-verification" content="Bd_pn0TK41pGsQLVOD4LQlgkrnt_oCQ9Yx9Gj_At_bQ" />
   <meta name="robots" content="INDEX,FOLLOW">
 
   </head>
